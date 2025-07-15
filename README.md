@@ -94,9 +94,10 @@ This project delivers an affordable, open-source alternative that bridges the ac
 ---
 
 ## Authors
+- **R Kavin Kumar**
+- **K Supriya**
 - **Jaswanth Kumar N**  
-- **K Supriya**  
-- **R Kavin Kumar**  
+
 Department of Electronics & Communication Engineering,  
 Amrita Vishwa Vidyapeetham, Bengaluru Campus
 
