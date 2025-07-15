@@ -86,7 +86,7 @@ This project delivers an affordable, open-source alternative that bridges the ac
 ## Repository Contents
 | File / Folder | Purpose |
 |---------------|---------|
-| `ImageCaptionGenerator.ipynb` | Vision-based captioning prototype |
+| `imageCaptionGenerator.ipynb` | Vision-based captioning prototype |
 | `translator.ipynb` | Multilingual speech/text translator |
 | `Code.ipynb` | GPIO control & Braille cell drive logic |
 | `README.md` | Project documentation (this file) |
