@@ -106,13 +106,3 @@ Amrita Vishwa Vidyapeetham, Bengaluru Campus
 ## License
 This project is intended for academic and research use only.  
 For reuse or publication, please contact the authors directly.
-
----
-
-## References
-1. Gupta R. *et al.* “Arduino-based Refreshable Braille Display Controller,” 2016.  
-2. Rahimi M. *et al.* “Finger-Wearable Electro-Braille with Opto-Electrotactile Feedback,” 2021.  
-3. Gozon J. *et al.* “Digitally Automated Text-to-Braille Device,” 2019.  
-4. Chitte P. *et al.* “Braille to Text & Speech for Cecity Persons,” 2015.  
-5. Shokat S. *et al.* “Analysis & Evaluation of Braille to Text Conversion Methods,” 2020.  
-6. Li Z. *et al.* “Electrostatic Smart Textiles for Braille-to-Speech Translation,” 2024.
